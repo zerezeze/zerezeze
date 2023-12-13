@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerezeze
 - 👀 I’m interested in learn new programming languages, make friends and migrate to the programming field in 2024 
-- 🌱 I’m currently learning Html, Css, JavaScript, git
+- 🌱 I’m currently learning Html, Css, JavaScript, git, angular, python
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me:
 - My email: joseevertonmotarodrigues@gmail.com
