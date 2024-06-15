@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerezeze
 - 👀 I’m interested in learn new programming languages, make friends and migrate to the programming field in 2024 
-- 🌱 I’m currently learning Html, Css, JavaScript, Git, React, Vue, Ruby
-- 💞️ I’m looking to collaborate on Ruby Projects
+- 🌱 I’m currently learning Html, Css, JavaScript, Git, React, Vue, Ruby, Node.js
+- 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me:
 - My email: joseevertonmotarodrigues@gmail.com
 - Instragram: @Zerezeze
