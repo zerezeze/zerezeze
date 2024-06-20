@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerezeze
 - 👀 I’m interested in learn new programming languages, make friends and migrate to the programming field in 2024 
-- 🌱 I have knowledge on Html, Css, JavaScript, TypeScript, BootStrap, Tailwind, Git, React, Vue, Ruby, Node.js, SQL
+- 🌱 I have knowledge on Html, Css, JavaScript, TypeScript, BootStrap, Tailwind, Sass, Git, React, Vue, Ruby, Node.js, SQL
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me:
 - My email: joseevertonmotarodrigues@gmail.com
