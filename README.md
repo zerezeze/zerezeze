@@ -49,8 +49,9 @@ O aplicativo de previsão do tempo foi desenvolvido para fornecer informações 
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub de Zerezeze](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+![Estatísticas do GitHub de Zerezeze](https://github-readme-stats.vercel.app/api?username=zerezeze&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zerezeze&layout=compact&theme=radical)
+
 
 ---
 
