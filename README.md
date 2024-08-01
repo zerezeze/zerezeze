@@ -18,9 +18,8 @@
 #### 📚 **[Ótica Everardo] https://zerezeze.github.io/otica-everardo/**
 O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
 
-#### 🌐 **[Wheater App] https://github.com/zerezeze/Wheater-app**
-O aplicativo de previsão do tempo foi desenvolvido para fornecer informações precisas e atualizadas sobre as condições meteorológicas. Com uma interface amigável e intuitiva, o app permite que os usuários obtenham previsões do tempo para diferentes localidades de forma rápida e fácil.
-
+#### ☀️ **[Felipe Soluções Solares] https://zerezeze.github.io/felipe-solucoes-solares/**
+O site da Felipe Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
 ---
 
 ### Tecnologias e Ferramentas
