@@ -22,7 +22,7 @@ O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataf
 
 O site da Felipe Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
 
-#### 📈 [Escola de Projetos e Processos] https://zerezeze.github.io/Escola-de-Projetos-e-Processos/**
+#### 📈 [Escola de Projetos e Processos] https://zerezeze.github.io/Escola-de-Projetos-e-Processos/
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
 ### Tecnologias e Ferramentas
