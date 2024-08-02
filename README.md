@@ -44,7 +44,7 @@ O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plat
 
 - 📧 Email: [joseevertonmotarodrigues@gmail.com](mailto:joseevertonmotarodrigues@gmail.com)
 - 💼 LinkedIn: [José Everton Mota Rodrigues](https://www.linkedin.com/in/jos%C3%A9-everton-mota-rodrigues-0a8323294/)
-- 🌐 Portfolio: [Meu Portfolio](https://zerezeze.github.io/My-Website/)
+- 🌐 Meu WebSite: [Meu WebSite](https://zerezeze.github.io/My-Website/)
 
 
 ---
