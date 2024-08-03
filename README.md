@@ -15,18 +15,21 @@
 
 ### Projetos
 
-#### 📚 **[Ótica Everardo] https://zerezeze.github.io/otica-everardo/**
-O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
-
-#### ☀️ **[Felipe Soluções Solares] https://zerezeze.github.io/felipe-solucoes-solares/**
-
-O site da Felipe Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
-
 #### 📈 [Escola de Projetos e Processos] https://zerezeze.github.io/Escola-de-Projetos-e-Processos/
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
+#### 📚 **[Ótica Everardo] https://zerezeze.github.io/otica-everardo/**
+O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
+
 #### 🌐 [Meu Linktree] https://zerezeze.github.io/My-Website/
 O Meu Website Pessoal é uma landing page desenvolvida utilizando HTML, CSS e JavaScript. Este projeto funciona como um linktree e foi criado para destacar minhas habilidades, projetos, redes sociais e formas de contato, apresentando um design moderno e responsivo.
+
+
+#### ☀️ **[Felipe Soluções Solares] https://zerezeze.github.io/felipe-solucoes-solares/**
+O site da Felipe Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
+
+
+
 
 
 
