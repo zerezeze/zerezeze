@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor Fullstack | Apaixonado por Tecnologia
+### Desenvolvedor | Apaixonado por Tecnologia
 
 ---
 
