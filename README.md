@@ -25,8 +25,8 @@ O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataf
 O Meu Website Pessoal é uma landing page desenvolvida utilizando HTML, CSS e JavaScript. Este projeto funciona como um linktree e foi criado para destacar minhas habilidades, projetos, redes sociais e formas de contato, apresentando um design moderno e responsivo.
 
 
-#### ☀️ **[Felipe Soluções Solares] https://zerezeze.github.io/felipe-solucoes-solares/**
-O site da Felipe Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
+#### ☀️ **[Philippe Santos Soluções Solares] https://zerezeze.github.io/Philippe-Santos-solucoes-solares/**
+O site da Philippe Santos Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
 
 
 
