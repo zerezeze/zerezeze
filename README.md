@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor | Apaixonado por Tecnologia
+### Desenvolvedor | Transformando café em código, um commit de cada vez.
 
 ---
 
