@@ -58,7 +58,7 @@ O site da Philippe Santos Soluções Solares foi criado para promover os serviç
 
 - 📧 Email: [joseevertonmotarodrigues@gmail.com](mailto:joseevertonmotarodrigues@gmail.com)
 - 💼 LinkedIn: [José Everton Mota Rodrigues](https://www.linkedin.com/in/jos%C3%A9-everton-mota-rodrigues-0a8323294/)
-- 🌐 Meu WebSite: [Meu WebSite](https://zerezeze.github.io/My-Website/)
+- 🌐 Meu LinkTree: [Meu LinkTree](https://zerezeze.github.io/My-Website/)
 
 
 ---
