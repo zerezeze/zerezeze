@@ -6,10 +6,10 @@
 
 ### Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário Cearense (UniC).
-- 📚 Fazendo curso de **Desenvolvimento Full Stack** na Digital College.
 - 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap, Sass), JavaScript (TypeScript), Git, React, Vue, Node.js, PHP, Ruby, SQL**.
 - 🎯 Focado em criar projetos robustos e escaláveis tanto no **front-end** quanto no **back-end**.
+- 🎓 **Análise e Desenvolvimento de Sistemas** no Centro Universitário Cearense (UniC).
+- 📚 **Desenvolvimento Full Stack** na Digital College.
 
 ---
 
