@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor NextJS | Transformando café em código, um commit de cada vez.
+### Desenvolvedor | Transformando café em código, um commit de cada vez.
 
 ---
 
