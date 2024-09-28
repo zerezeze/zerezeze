@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-- 💻 Experiência em ** HTML, CSS (Tailwind, Bootstrap, Sass), JavaScript (TypeScript), Git, React, NextJS, Node.js, PHP, Ruby, SQL**.
+- 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap, Sass), JavaScript (TypeScript), Git, React, NextJS, Node.js, PHP, Ruby, SQL**.
 - 🎯 Focado em criar projetos robustos e escaláveis tanto no **front-end** quanto no **back-end**.
 - 🎓 **Análise e Desenvolvimento de Sistemas** no Centro Universitário Cearense (UniC).
 - 📚 **Desenvolvimento Full Stack** na Digital College.
