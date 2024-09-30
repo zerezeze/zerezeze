@@ -15,9 +15,6 @@
 
 ### Projetos
 
-#### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
-O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
-
 #### 📚 **[Ótica Everardo](https://zerezeze.github.io/otica-everardo/)**
 O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
 
@@ -29,6 +26,10 @@ O site da Philippe Santos Soluções Solares foi criado para promover os serviç
 
 #### 🏦 **[Bytebank](https://byte-bank-sigma.vercel.app/)**
 Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancária. Nele, trabalhei com conceitos de orientação a objetos, encapsulamento, herança e polimorfismo, reforçando habilidades essenciais em desenvolvimento com **TypeScript**.
+
+#### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
+O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
+
 
 ---
 
