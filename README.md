@@ -15,24 +15,22 @@
 
 ### Projetos
 
-#### 📈 [Escola de Projetos e Processos] https://zerezeze.github.io/Escola-de-Projetos-e-Processos/
+#### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
-#### 📚 **[Ótica Everardo] https://zerezeze.github.io/otica-everardo/**
+#### 📚 **[Ótica Everardo](https://zerezeze.github.io/otica-everardo/)**
 O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
 
-#### 🌐 [Meu Linktree] https://zerezeze.github.io/My-Website/
+#### 🌐 [Meu Linktree](https://zerezeze.github.io/My-Website/)
 O Meu Website Pessoal é uma landing page desenvolvida utilizando HTML, CSS e JavaScript. Este projeto funciona como um linktree e foi criado para destacar minhas habilidades, projetos, redes sociais e formas de contato, apresentando um design moderno e responsivo.
 
-
-#### ☀️ **[Philippe Santos Soluções Solares] https://zerezeze.github.io/Philippe-Santos-solucoes-solares/**
+#### ☀️ **[Philippe Santos Soluções Solares](https://zerezeze.github.io/Philippe-Santos-solucoes-solares/)**
 O site da Philippe Santos Soluções Solares foi criado para promover os serviços de energia solar da empresa. O design moderno e responsivo destaca os benefícios da energia solar e facilita o contato com a empresa para mais informações e orçamentos personalizados.
 
+#### 🏦 **[Bytebank](https://byte-bank-sigma.vercel.app/)**
+Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancária. Nele, trabalhei com conceitos de orientação a objetos, encapsulamento, herança e polimorfismo, reforçando habilidades essenciais em desenvolvimento com **TypeScript**.
 
-
-
-
-
+---
 
 ### Tecnologias e Ferramentas
 
@@ -52,7 +50,6 @@ O site da Philippe Santos Soluções Solares foi criado para promover os serviç
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-
 ---
 
 ### Contato
@@ -61,14 +58,12 @@ O site da Philippe Santos Soluções Solares foi criado para promover os serviç
 - 💼 LinkedIn: [José Everton Mota Rodrigues](https://www.linkedin.com/in/jos%C3%A9-everton-mota-rodrigues-0a8323294/)
 - 🌐 Meu LinkTree: [Meu LinkTree](https://zerezeze.github.io/My-Website/)
 
-
 ---
 
 ### Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Zerezeze](https://github-readme-stats.vercel.app/api?username=zerezeze&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zerezeze&layout=compact&theme=radical)
-
 
 ---
 
