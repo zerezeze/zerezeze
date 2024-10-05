@@ -13,7 +13,8 @@
 
 ---
 
-### Projetos
+#### 🌳 **[Fundação Mata Atlântica](https://fundacao-mata-atlantica.vercel.app/)**
+A landing page da Fundação Mata Atlântica foi criada para promover a missão e os projetos da ONG localizada em Maranguape. O design foi pensado para ser moderno e responsivo, oferecendo informações acessíveis sobre as iniciativas de preservação ambiental e como a comunidade pode contribuir.
 
 #### 📚 **[Ótica Everardo](https://zerezeze.github.io/otica-everardo/)**
 O site da Ótica Everardo foi desenvolvido para oferecer aos clientes uma plataforma online intuitiva e informativa sobre os serviços e produtos da ótica. Ele visa proporcionar uma experiência de usuário agradável e facilitar o acesso a informações importantes sobre a empresa, como os serviços oferecidos, os produtos disponíveis e o processo de encaminhamento para consultas oftalmológicas.
@@ -29,6 +30,7 @@ Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancári
 
 #### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
+
 
 
 ---
