@@ -13,7 +13,7 @@
 
 ---
 
-#### 🌳 **[Fundação Mata Atlântica](https://fundacao-mata-atlantica.vercel.app/)**
+#### 🌳 **[Fundação Mata Atlântica](https://fundacao-mata-atlantica-cearense.vercel.app/)**
 A landing page da Fundação Mata Atlântica foi criada para promover a missão e os projetos da ONG localizada em Maranguape. O design foi pensado para ser moderno e responsivo, oferecendo informações acessíveis sobre as iniciativas de preservação ambiental e como a comunidade pode contribuir.
 
 #### 📚 **[Ótica Everardo](https://zerezeze.github.io/otica-everardo/)**
