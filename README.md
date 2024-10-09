@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-- 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap), JavaScript (TypeScript), Git, React, NextJS, Node.js, PHP, Ruby, SQL**.
+- 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap), JavaScript (TypeScript), Git, React, NextJS, Astro.js Node.js, PHP, Ruby, SQL**.
 - 🎯 Focado em criar projetos robustos e escaláveis tanto no **front-end** quanto no **back-end**.
 - 🎓 **Análise e Desenvolvimento de Sistemas** no Centro Universitário Cearense (UniC).
 - 📚 **Desenvolvimento Full Stack** na Digital College.
@@ -31,7 +31,8 @@ Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancári
 #### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
-
+#### 🚀 **[Projeto Astro.js](https://astro.build/)**
+Neste projeto, utilizei o **Astro.js** para construir uma aplicação moderna e otimizada, aproveitando a capacidade de gerar sites estáticos e dinâmicos de forma eficiente. O Astro.js me permitiu integrar diferentes frameworks e bibliotecas, oferecendo uma experiência de desenvolvimento única.
 
 ---
 
@@ -44,6 +45,7 @@ O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plat
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro.js-FF6F61?style=flat-square&logo=astro&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -73,7 +75,7 @@ O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plat
 ### Curiosidades
 
 - 🚀 Sempre em busca de novos desafios e aprendizados.
-- 📚 Amante de livros e artigos sobre tecnologia.
+- 📚 livros e artigos sobre tecnologia.
 - 🎮 Gosto de jogar e desenvolver nas horas vagas.
 
 ---
