@@ -31,8 +31,6 @@ Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancári
 #### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
-#### 🚀 **[Projeto Astro.js](https://astro.build/)**
-Neste projeto, utilizei o **Astro.js** para construir uma aplicação moderna e otimizada, aproveitando a capacidade de gerar sites estáticos e dinâmicos de forma eficiente. O Astro.js me permitiu integrar diferentes frameworks e bibliotecas, oferecendo uma experiência de desenvolvimento única.
 
 ---
 
