@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor | Transformando café em código, um commit de cada vez.
+### Desenvolvedor de Software no apLis - Software de Análise Patológica
 
 ---
 
