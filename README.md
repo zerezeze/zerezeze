@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor de Software no apLis - Software de Análise Patológica
+### Desenvolvedor de Software no apLIS - Software de Análise Patológica
 
 ---
 
