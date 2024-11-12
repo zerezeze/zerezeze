@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor de Software no apLIS 
+### Desenvolvedor de Software no apLIS 🔬
 
 ---
 
