@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José!
 
-### Desenvolvedor no apLIS - Software de Anatomia Patológica 🔬
+### Desenvolvedor 
 
 ---
 
