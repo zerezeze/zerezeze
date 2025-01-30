@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-- 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap), JavaScript (TypeScript), Git, React, NextJS, Astro.js, JQuery, Node.js, PHP, Ruby, SQL**.
+- 💻 Experiência em **HTML, CSS (Tailwind, Bootstrap), JavaScript (TypeScript), Git, React, NextJS, Astro.js, JQuery, Node.js, PHP, Python, Ruby, SQL**.
 - 🎯 Focado em criar projetos robustos e escaláveis tanto no **front-end** quanto no **back-end**.
 - 🎓 **Análise e Desenvolvimento de Sistemas** na Descomplica Faculdade Digital. (Cursando)
 - 📚 **Desenvolvimento Full Stack** na Digital College. (Concluído)
