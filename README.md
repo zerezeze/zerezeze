@@ -31,6 +31,9 @@ Projeto **Bytebank** desenvolvido com o foco em simular uma aplicação bancári
 #### 📈 [Escola de Projetos e Processos](https://zerezeze.github.io/Escola-de-Projetos-e-Processos/)
 O Site da Escola de Projetos e Processos foi desenvolvido para fornecer uma plataforma informativa sobre os cursos, workshops e eventos oferecidos pela escola. Com um design moderno e responsivo, o site visa oferecer uma experiência de usuário intuitiva e acessível, garantindo que todas as informações sobre a instituição e seus programas sejam facilmente encontradas e compreendidas.
 
+### 👩‍💻 [Calliope Projetos](https://graziellealbuquerque.netlify.app/)
+Projeto colaborativo desenvolvido para destacar Produtos Editorias, livros e serviços da Grazielle Albuquerque. O site foi criado com foco em um design moderno, responsivo e elegante, facilitando o contato profissional.
+
 #### 🌐 [Meu Linktree](https://zerezeze.github.io/My-Website/)
 O Meu Website Pessoal é uma landing page desenvolvida utilizando HTML, CSS e JavaScript. Este projeto funciona como um linktree e foi criado para destacar minhas habilidades, projetos, redes sociais e formas de contato, apresentando um design moderno e responsivo.
 
